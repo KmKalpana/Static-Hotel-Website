@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http:///components/Navbars",
+            "request": "launch",
+            "url": "http:///components/Navbars"
+        }
+    ]
+}

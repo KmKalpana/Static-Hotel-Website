@@ -1,0 +1,21 @@
+/* import React from 'react'
+import AliceCarousel from 'react-alice-carousel'
+import 'react-alice-carousel/lib/alice-carousel.css'
+import img1 from './images/img1.jpg'
+import img2 from './images/img2.jpg'
+import img3 from './images/img3.jpg'
+import img4 from './images/img4.jpg'
+const ImageSlider = () => {
+  return (
+    <div>
+      <AliceCarousel autoPlay autoPlayInterval={2000}>
+        <img src={img1} className='slider' />
+        <img src={img2} className='slider' />
+        <img src={img3} className='slider' />
+        <img src={img4} className='slider' />
+      </AliceCarousel>
+    </div>
+  )
+}
+export default ImageSlider
+*/

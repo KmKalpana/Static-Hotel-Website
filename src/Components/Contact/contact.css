@@ -1,0 +1,39 @@
+.contact
+{
+    margin-top: 0px;
+    text-align: center;
+    background-color: #000000;
+    margin-bottom: 0px;
+}
+.form
+{
+    margin-top: 10px;
+    color:white;
+    font-size: larger;
+}
+input{
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+    background-color: #C0C0C0;
+}
+textarea{
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+    background-color: #C0C0C0	;
+}
+
+.submit
+{
+    border-radius: 8px;
+    margin-top:8px;
+    margin-bottom: 8px;
+    font-size: larger;
+    background-color: #C0C0C0	;
+    padding: 10px 20px 10px 20px;
+}
+.he
+{
+    margin-top: 10px;
+    color:white;
+    font-size: 30px;
+}
